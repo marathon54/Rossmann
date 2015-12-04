@@ -1,0 +1,9 @@
+{
+    "path" : "~/_data/Rossmann",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
